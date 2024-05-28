@@ -32,7 +32,7 @@ git clone https://github.com/your-username/data-science-internship.git
 
 ## Contributors
 
-- [Your Name/Username] - Data Science Intern
+- Alok Dalvi - Data Science Intern
 
 ## License
 
